@@ -1,0 +1,23 @@
+{
+  "name": "home",
+  "version": "2.0.0",
+  "description": "> TODO: description",
+  "author": "QUYNH999 <huongquynh99uel@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/Home.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.68.2"
+  }
+}
